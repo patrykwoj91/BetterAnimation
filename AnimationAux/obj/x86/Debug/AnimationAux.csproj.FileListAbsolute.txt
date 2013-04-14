@@ -22,3 +22,9 @@ D:\Downloads\kopia\AnimationAux\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Downloads\kopia\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\Downloads\kopia\AnimationAux\obj\x86\Debug\XnaAux.dll
 D:\Downloads\kopia\AnimationAux\obj\x86\Debug\XnaAux.pdb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\AnimationAux\bin\x86\Debug\XnaAux.dll
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\AnimationAux\bin\x86\Debug\XnaAux.pdb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\AnimationAux\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\AnimationAux\obj\x86\Debug\XnaAux.dll
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\AnimationAux\obj\x86\Debug\XnaAux.pdb

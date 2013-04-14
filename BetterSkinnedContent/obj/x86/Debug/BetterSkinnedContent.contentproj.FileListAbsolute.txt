@@ -1,3 +1,4 @@
 C:\Users\cbowen\Desktop\BetterSkinnedSample\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Downloads\kopia\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache

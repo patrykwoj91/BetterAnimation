@@ -10,11 +10,11 @@
         <Data Key="Scale">0.2</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y.xnb</Output>
+      <Output>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y.xnb</Output>
       <Time>2013-04-12T23:21:58.5712755+02:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\test_FBX_Y_0.xml</Key>
-        <Value>2013-04-14T11:46:35.0532073+02:00</Value>
+        <Value>2013-04-14T13:51:59.1905633+02:00</Value>
       </Dependency>
       <Dependency>
         <Key>test_FBX_Y_Anims.xml</Key>
@@ -22,9 +22,9 @@
       </Dependency>
       <Dependency>
         <Key>obj\x86\Debug\test_FBX_Y_Anims_0.xml</Key>
-        <Value>2013-04-14T11:46:35.1052103+02:00</Value>
+        <Value>2013-04-14T13:51:59.3555728+02:00</Value>
       </Dependency>
-      <Request>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb</Request>
+      <Request>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb</Request>
     </Item>
     <Item>
       <Source>test_FBX_Y_Anims.xml</Source>
@@ -32,7 +32,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y_Anims.xnb</Output>
+      <Output>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y_Anims.xnb</Output>
       <Time>2013-04-13T22:14:47.359225+02:00</Time>
     </Item>
     <Item>
@@ -55,7 +55,7 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb</Output>
+      <Output>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb</Output>
       <Time>2013-04-12T23:22:03.440554+02:00</Time>
     </Item>
     <Item>
@@ -71,10 +71,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Downloads\kopia\BetterSkinnedContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Downloads\kopia\BetterSkinned\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Downloads\kopia\BetterSkinnedContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinnedContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinnedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -102,8 +102,8 @@
         <Value>2010-08-23T13:41:18+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>D:\Downloads\kopia\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll</Key>
-        <Value>2013-04-14T11:46:30.7399606+02:00</Value>
+        <Key>D:\Documents\Visual Studio 2010\Projects\BetterAnimation\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll</Key>
+        <Value>2013-04-14T13:51:49.3199988+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>

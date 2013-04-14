@@ -9,3 +9,14 @@ D:\Downloads\kopia\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
 D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y.xnb
 D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb
 D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y_Anims.xnb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y.xnb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y_Anims.xnb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\BetterSkinned.exe
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\BetterSkinned.pdb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\XnaAux.dll
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\bin\x86\Debug\XnaAux.pdb
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+D:\Documents\Visual Studio 2010\Projects\BetterAnimation\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
