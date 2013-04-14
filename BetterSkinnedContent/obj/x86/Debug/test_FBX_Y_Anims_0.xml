@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="AnimationPipeline.AnimationDefinition">
+    <OriginalClipName>Take 001</OriginalClipName>
+    <OriginalFrameCount>390</OriginalFrameCount>
+    <ClipParts>
+      <Item>
+        <ClipName>Idle</ClipName>
+        <StartFrame>0</StartFrame>
+        <EndFrame>100</EndFrame>
+      </Item>
+      <Item>
+        <ClipName>Walk</ClipName>
+        <StartFrame>105</StartFrame>
+        <EndFrame>145</EndFrame>
+      </Item>
+      <Item>
+        <ClipName>Run</ClipName>
+        <StartFrame>150</StartFrame>
+        <EndFrame>180</EndFrame>
+      </Item>
+      <Item>
+        <ClipName>Alert</ClipName>
+        <StartFrame>185</StartFrame>
+        <EndFrame>285</EndFrame>
+      </Item>
+    </ClipParts>
+  </Asset>
+</XnaContent>

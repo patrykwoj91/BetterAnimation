@@ -1,0 +1,11 @@
+D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\BetterSkinned.exe
+D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\BetterSkinned.pdb
+D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\XnaAux.dll
+D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\XnaAux.pdb
+D:\Downloads\kopia\BetterSkinned\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads\kopia\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Downloads\kopia\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+D:\Downloads\kopia\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
+D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y.xnb
+D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb
+D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y_Anims.xnb

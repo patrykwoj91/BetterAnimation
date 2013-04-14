@@ -1,0 +1,21 @@
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\SingleItem\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\SingleItem\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\SingleItem\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\SingleItem\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\SingleItem\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\SingleItem\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\SingleItem\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\SingleItem\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\SingleItem\x86\Debug\AnimationPipeline.pdb

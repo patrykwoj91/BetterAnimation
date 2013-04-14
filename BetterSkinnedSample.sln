@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSkinned", "BetterSkinned\BetterSkinned.csproj", "{15352C9A-B094-4C85-BB75-06D626C46997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationAux", "AnimationAux\AnimationAux.csproj", "{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationPipeline", "AnimationPipeline\AnimationPipeline.csproj", "{FF2FBE94-50B5-4E78-9592-B95F32A8881E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSkinnedContent", "BetterSkinnedContent\BetterSkinnedContent.contentproj", "{68AF13CC-AA8C-4112-A7DF-A62E9F018D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15352C9A-B094-4C85-BB75-06D626C46997}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{15352C9A-B094-4C85-BB75-06D626C46997}.Debug|x86.ActiveCfg = Debug|x86
+		{15352C9A-B094-4C85-BB75-06D626C46997}.Debug|x86.Build.0 = Debug|x86
+		{15352C9A-B094-4C85-BB75-06D626C46997}.Release|Any CPU.ActiveCfg = Release|x86
+		{15352C9A-B094-4C85-BB75-06D626C46997}.Release|x86.ActiveCfg = Release|x86
+		{15352C9A-B094-4C85-BB75-06D626C46997}.Release|x86.Build.0 = Release|x86
+		{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}.Debug|x86.ActiveCfg = Debug|x86
+		{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}.Debug|x86.Build.0 = Debug|x86
+		{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}.Release|Any CPU.ActiveCfg = Release|x86
+		{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}.Release|x86.ActiveCfg = Release|x86
+		{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}.Release|x86.Build.0 = Release|x86
+		{FF2FBE94-50B5-4E78-9592-B95F32A8881E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FF2FBE94-50B5-4E78-9592-B95F32A8881E}.Debug|x86.ActiveCfg = Debug|x86
+		{FF2FBE94-50B5-4E78-9592-B95F32A8881E}.Debug|x86.Build.0 = Debug|x86
+		{FF2FBE94-50B5-4E78-9592-B95F32A8881E}.Release|Any CPU.ActiveCfg = Debug|x86
+		{FF2FBE94-50B5-4E78-9592-B95F32A8881E}.Release|x86.ActiveCfg = Debug|x86
+		{FF2FBE94-50B5-4E78-9592-B95F32A8881E}.Release|x86.Build.0 = Debug|x86
+		{68AF13CC-AA8C-4112-A7DF-A62E9F018D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AF13CC-AA8C-4112-A7DF-A62E9F018D24}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{68AF13CC-AA8C-4112-A7DF-A62E9F018D24}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AF13CC-AA8C-4112-A7DF-A62E9F018D24}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

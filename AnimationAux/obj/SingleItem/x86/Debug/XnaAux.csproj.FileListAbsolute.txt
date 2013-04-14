@@ -1,0 +1,18 @@
+C:\Users\cbowen\Desktop\AnimationSteps\XnaAux\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\AnimationSteps\XnaAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Desktop\AnimationSteps\XnaAux\obj\SingleItem\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\AnimationSteps\XnaAux\obj\SingleItem\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cbowen\Desktop\AnimationSteps\XnaAux\obj\SingleItem\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\AnimationSteps\XnaAux\obj\SingleItem\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\XnaAux\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\XnaAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\XnaAux\obj\SingleItem\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\XnaAux\obj\SingleItem\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\XnaAux\obj\SingleItem\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\XnaAux\obj\SingleItem\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\XnaAux\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\XnaAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\XnaAux\obj\SingleItem\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\XnaAux\obj\SingleItem\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\XnaAux\obj\SingleItem\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\XnaAux\obj\SingleItem\x86\Debug\XnaAux.pdb

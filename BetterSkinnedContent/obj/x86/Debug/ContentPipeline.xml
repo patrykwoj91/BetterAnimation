@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>test_FBX_Y.FBX</Source>
+      <Name>test_FBX_Y</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.2</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y.xnb</Output>
+      <Time>2013-04-12T23:21:58.5712755+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\test_FBX_Y_0.xml</Key>
+        <Value>2013-04-14T11:46:35.0532073+02:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>test_FBX_Y_Anims.xml</Key>
+        <Value>2013-04-13T22:14:47.359225+02:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Debug\test_FBX_Y_Anims_0.xml</Key>
+        <Value>2013-04-14T11:46:35.1052103+02:00</Value>
+      </Dependency>
+      <Request>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>test_FBX_Y_Anims.xml</Source>
+      <Name>test_FBX_Y_Anims</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_FBX_Y_Anims.xnb</Output>
+      <Time>2013-04-13T22:14:47.359225+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test_FBX_Y.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\test_FBX_Y_0.xml</Output>
+      <Time>2013-04-12T23:21:58.5712755+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test_m.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\test_m_0.xnb</Output>
+      <Time>2013-04-12T23:22:03.440554+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test_FBX_Y_Anims.xml</Source>
+      <Importer>XmlImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Debug\test_FBX_Y_Anims_0.xml</Output>
+      <Time>2013-04-13T22:14:47.359225+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Downloads\kopia\BetterSkinnedContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Downloads\kopia\BetterSkinned\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Downloads\kopia\BetterSkinnedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Downloads\kopia\BetterSkinned\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Downloads\kopia\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll</Key>
+        <Value>2013-04-14T11:46:30.7399606+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-26T14:25:15.1258857+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
